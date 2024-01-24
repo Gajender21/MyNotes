@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  /* font-family: "Gilroy"; */
+  /* font-weight: 250; */
+}
+::selection{
+  color: crimson;
+}
+:focus{
+  outline: none;
+}
